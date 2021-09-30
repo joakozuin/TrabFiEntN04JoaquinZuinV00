@@ -13,4 +13,4 @@
   - Escaneo Punto a Punto
 - Fabricacion 3D
     - Aditiva Impresora 3D
-    - Sustractiva Mecanizado CNC 
+    - Sustractiva Mecanizado  CNC 
